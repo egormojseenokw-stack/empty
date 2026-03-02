@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BlacklistedConsumer xmlns="http://soap.sforce.com/2006/04/metadata">
+    <blockedByApiWhitelisting>true</blockedByApiWhitelisting>
+    <consumerKey>PmOQMTb2vq5lXsxs9RonWCGI9mmxgbL22OdSqCybhqq4kFXlSW0Z20QSxNMR9ZTGvppvkrUfQLnkC1RACl8tx</consumerKey>
+    <consumerName>DMCA</consumerName>
+    <masterLabel>BlacklistedConsumer1476421076292961</masterLabel>
+</BlacklistedConsumer>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>Flosum__BP_Deploy</name>
+    </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>Flosum__BP_Run_Pipelines</name>
+    </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>Flosum__BP_Schedule_Deployment</name>
+    </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>Flosum__BP_Validate</name>
+    </customPermissions>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Custom Release Manager</label>
+</PermissionSet>

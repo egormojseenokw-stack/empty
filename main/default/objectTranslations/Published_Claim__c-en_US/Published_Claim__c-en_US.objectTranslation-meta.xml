@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Published_Claim__c-en_US</fullName>
+    <caseValues>
+        <plural>false</plural>
+        <value>Published Claim</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Published Claims</value>
+    </caseValues>
+    <recordTypes>
+        <label><!-- One --></label>
+        <name>One</name>
+    </recordTypes>
+    <recordTypes>
+        <label><!-- Two --></label>
+        <name>Two</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

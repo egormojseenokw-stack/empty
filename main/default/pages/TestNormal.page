@@ -1,0 +1,4 @@
+<apex:page controller="TestNormal" action="{!insertAuth}">
+  TestNormal
+  {!leftOptionList}
+</apex:page>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Geo__c</fullName>
+    <label>Geo</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Test</fullName>
+                <default>false</default>
+                <label>Test</label>
+            </value>
+            <value>
+                <fullName>Test2</fullName>
+                <default>false</default>
+                <label>Test2</label>
+            </value>
+            <value>
+                <fullName>Test3</fullName>
+                <default>false</default>
+                <label>Test3</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

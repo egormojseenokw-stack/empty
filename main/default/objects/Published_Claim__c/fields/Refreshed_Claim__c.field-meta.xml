@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Refreshed_Claim__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <label>Refreshed Claim</label>
+    <referenceTo>Claim__c</referenceTo>
+    <relationshipLabel>Published Claims</relationshipLabel>
+    <relationshipName>Published_Claims</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

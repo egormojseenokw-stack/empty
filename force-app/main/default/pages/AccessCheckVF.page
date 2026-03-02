@@ -1,0 +1,5 @@
+<apex:page controller="AccessCheck">
+  <!-- Begin Default Content REMOVE THIS -->
+  <h1>AccessCheck</h1>
+  <!-- End Default Content REMOVE THIS -->
+</apex:page>

@@ -1,0 +1,5 @@
+ ›   Warning: @salesforce/cli update available from [92m2.113.6[39m to [92m2.123.1[39m.
+Converting 2147 metadata components... [1m[31mError[39m[22m
+[1m[31mError (ConversionError):[39m[22m Component conversion failed: Cannot create a string longer than 0x1fffffe8 characters
+
+

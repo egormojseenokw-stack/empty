@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ListView xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>All</fullName>
+    <columns>NAME</columns>
+    <columns>agf__Subject__c</columns>
+    <columns>agf__Status__c</columns>
+    <columns>agf__Type__c</columns>
+    <columns>RECORDTYPE</columns>
+    <columns>agf__Priority__c</columns>
+    <columns>agf__Assignee__c</columns>
+    <columns>agf__Scrum_Team__c</columns>
+    <columns>agf__Scheduled_Build__c</columns>
+    <columns>LAST_UPDATE</columns>
+    <filterScope>Mine</filterScope>
+    <label>All</label>
+</ListView>

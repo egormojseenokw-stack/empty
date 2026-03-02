@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>Flosum__BP_Commit_to_Branch</name>
+    </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>Flosum__BP_Deployment_Analyzer</name>
+    </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>Flosum__BP_Edit_Component</name>
+    </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>Flosum__BP_Impact_Analysis</name>
+    </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>Flosum__BP_Merge_Branch</name>
+    </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>Flosum__BP_Pull_Request</name>
+    </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>Flosum__BP_Remove_Component</name>
+    </customPermissions>
+    <customPermissions>
+        <enabled>true</enabled>
+        <name>Flosum__BP_Validate</name>
+    </customPermissions>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Custom Dev</label>
+</PermissionSet>

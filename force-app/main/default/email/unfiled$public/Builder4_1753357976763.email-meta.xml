@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Builder4</name>
+    <pageDevName>Builder4</pageDevName>
+    <relatedEntityType>Case</relatedEntityType>
+    <style>none</style>
+    <subject>Builder4</subject>
+    <textOnly>Home &lt; https:// &gt; 
+
+Orgs &lt; https:// &gt; 
+
+Log Out &lt; https:// &gt; 
+
+Insert Text Here
+
+Copyright &lt;  &gt; 
+
+About Us &lt;  &gt; 
+
+Contact Us &lt;  &gt; 
+
+Great &lt;  &gt;</textOnly>
+    <type>custom</type>
+    <uiType>SFX</uiType>
+</EmailTemplate>

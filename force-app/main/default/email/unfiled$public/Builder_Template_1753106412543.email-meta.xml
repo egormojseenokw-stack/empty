@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>Builder Template</name>
+    <pageDevName>Builder_Template</pageDevName>
+    <relatedEntityType>Account</relatedEntityType>
+    <style>none</style>
+    <subject>Account information</subject>
+    <textOnly>Yo Yo Test &lt; https:// &gt; 
+
+BoldItalicInsert Text Here</textOnly>
+    <type>custom</type>
+    <uiType>SFX</uiType>
+</EmailTemplate>

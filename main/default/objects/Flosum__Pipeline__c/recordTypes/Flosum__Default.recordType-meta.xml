@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Flosum__Default</fullName>
+    <active>true</active>
+    <label>Default</label>
+    <picklistValues>
+        <picklist>Flosum__Deployment_Mode__c</picklist>
+        <values>
+            <fullName>DEPLOY</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>VALIDATE</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Flosum__Deployment_Style__c</picklist>
+        <values>
+            <fullName>CONTINUE ON FAILURE</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>STOP ON FAILURE</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>Flosum__Filter__c</picklist>
+        <values>
+            <fullName>All Components</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Commit Only</fullName>
+            <default>true</default>
+        </values>
+    </picklistValues>
+</RecordType>

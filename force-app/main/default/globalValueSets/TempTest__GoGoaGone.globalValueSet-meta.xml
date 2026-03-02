@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Go</fullName>
+        <default>false</default>
+        <label>Go</label>
+    </customValue>
+    <customValue>
+        <fullName>Goa</fullName>
+        <default>false</default>
+        <label>Goa</label>
+    </customValue>
+    <customValue>
+        <fullName>Gone</fullName>
+        <default>false</default>
+        <label>Gone</label>
+    </customValue>
+    <masterLabel>GoGoaGone</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>TempTest__FieldSetTest__c-en_US</fullName>
+    <fieldSets>
+        <label><!-- FieldSet One --></label>
+        <name>TempTest__FieldSet_One</name>
+    </fieldSets>
+    <recordTypes>
+        <label><!-- RtOne --></label>
+        <name>TempTest__RtOne</name>
+    </recordTypes>
+    <validationRules>
+        <errorMessage><!-- Enter a valid value --></errorMessage>
+        <name>TempTest__Valid_One</name>
+    </validationRules>
+    <webLinks>
+        <label><!-- New_Button --></label>
+        <name>TempTest__New_Button</name>
+    </webLinks>
+</CustomObjectTranslation>

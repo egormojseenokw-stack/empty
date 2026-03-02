@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BlacklistedConsumer xmlns="http://soap.sforce.com/2006/04/metadata">
+    <blockedByApiWhitelisting>true</blockedByApiWhitelisting>
+    <consumerKey>cj8dLUj3QwSbxTlGqbfvqLH9jLD4Ip9oVTtvIDJJreSXLoq8jGTA5axX3IBG8cves5HSRqiU0QKHymftDPu4Q</consumerKey>
+    <consumerName>ReleaseMGMT</consumerName>
+    <masterLabel>BlacklistedConsumer170988177883288</masterLabel>
+</BlacklistedConsumer>
