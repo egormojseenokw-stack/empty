@@ -5,7 +5,7 @@
 
 set -e
 REPO="$(cd "$(dirname "$0")/.." && pwd)"
-ORG="${1:-testEmpty}"
+ORG="${1:-dev}"
 # Второй аргумент: пропустить первые N (деплоить только с (N+1)-го по последний). Пример: 150 = деплоить только последние 50.
 START_OFFSET="${2:-0}"
 DEPLOY_DIR=/tmp/rt-data-deploy
@@ -31,7 +31,7 @@ fi
 
 echo "Deploying record types $((START_OFFSET+1))-$TOTAL (last $DEPLOY_COUNT files) to $ORG in $BATCHES batches (up to $BATCH_SIZE per batch, async)."
 
-for ((b=3; b<BATCHES; b++)); do
+for ((b=5; b<BATCHES; b++)); do
   start=$((START_OFFSET + b * BATCH_SIZE))
   end=$((start + BATCH_SIZE))
   [ $end -gt $TOTAL ] && end=$TOTAL
