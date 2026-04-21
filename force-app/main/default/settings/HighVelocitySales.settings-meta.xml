@@ -4,7 +4,6 @@
     <enableACChangeTargetAssignee>false</enableACChangeTargetAssignee>
     <enableACSkipWeekends>false</enableACSkipWeekends>
     <enableBusinessHours>false</enableBusinessHours>
-    <enableCadenceVariantTestingPref>false</enableCadenceVariantTestingPref>
     <enableChgTgtAssigneeUsrPermPref>false</enableChgTgtAssigneeUsrPermPref>
     <enableEngagementWaveAnalyticsPref>false</enableEngagementWaveAnalyticsPref>
     <enableHighVelocitySalesSetup>false</enableHighVelocitySalesSetup>

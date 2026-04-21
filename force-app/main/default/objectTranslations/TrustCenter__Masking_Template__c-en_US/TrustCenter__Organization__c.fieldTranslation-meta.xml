@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- Select an org from the list. Metadata definitions to define the data masking template will be retrieved from the selected org, but this template can be used on any org. --></help>
-    <label><!-- Source Organization --></label>
-    <name>TrustCenter__Organization__c</name>
-    <relationshipLabel><!-- Masking Templates --></relationshipLabel>
-</CustomFieldTranslation>

@@ -19,5 +19,5 @@
         <operation>greaterOrEqual</operation>
         <value>TODAY</value>
     </filters>
-    <label>Today&apos;s Agenda</label>
+    <label>Today&#39;s Agenda</label>
 </ListView>

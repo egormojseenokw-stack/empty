@@ -1,0 +1,32 @@
+<template>
+    <lightning-card title="Test Utility Component" icon-name="utility:settings">
+        <div class="slds-p-around_medium">
+            <div class="slds-box slds-box_small slds-theme_shade slds-m-bottom_small">
+                <p class="slds-text-heading_small">Текущее время:</p>
+                <p class="slds-text-title slds-m-top_x-small">{currentTime}</p>
+            </div>
+            
+            <div class="slds-box slds-box_small slds-theme_default">
+                <p class="slds-text-heading_small">Счетчик: <strong>{counter}</strong></p>
+                <div class="slds-m-top_small">
+                    <lightning-button 
+                        label="Увеличить" 
+                        onclick={handleIncrement}
+                        variant="brand"
+                        class="slds-m-right_x-small">
+                    </lightning-button>
+                    <lightning-button 
+                        label="Сбросить" 
+                        onclick={handleReset}
+                        variant="neutral">
+                    </lightning-button>
+                </div>
+            </div>
+            
+            <div class="slds-m-top_small slds-text-color_success">
+                <lightning-icon icon-name="utility:success" size="x-small"></lightning-icon>
+                Компонент успешно загружен!
+            </div>
+        </div>
+    </lightning-card>
+</template>

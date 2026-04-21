@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AppMenu xmlns="http://soap.sforce.com/2006/04/metadata">
     <appMenuItems>
+        <name>niket</name>
+        <type>CustomTab</type>
+    </appMenuItems>
+    <appMenuItems>
         <name>EinsteinInsights</name>
         <type>StandardAppMenuItem</type>
     </appMenuItems>
@@ -49,7 +53,19 @@
         <type>StandardAppMenuItem</type>
     </appMenuItems>
     <appMenuItems>
-        <name>OnlineSalesHome</name>
+        <name>LightningInstrumentation</name>
+        <type>StandardAppMenuItem</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>LightningSchedulerSetupAssistant</name>
+        <type>StandardAppMenuItem</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>ProductCatalog</name>
+        <type>StandardAppMenuItem</type>
+    </appMenuItems>
+    <appMenuItems>
+        <name>ProductCategory</name>
         <type>StandardAppMenuItem</type>
     </appMenuItems>
     <appMenuItems>

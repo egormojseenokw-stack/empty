@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Name_Required</fullName>
+    <active>true</active>
+    <description>Validates that Name is not blank on Site__c</description>
+    <errorConditionFormula>ISBLANK(Name)</errorConditionFormula>
+    <errorMessage>Name is required and cannot be blank.</errorMessage>
+</ValidationRule>

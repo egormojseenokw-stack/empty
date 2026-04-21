@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>testGr</label>
+    <mutingPermissionSets>testGr_Muted</mutingPermissionSets>
+    <permissionSets>force__CDPDataAwareSpecialist</permissionSets>
+    <permissionSets>force__CDPMarketingManager</permissionSets>
+    <permissionSets>force__CDPMarketingSpecialist</permissionSets>
+    <permissionSets>force__GenieMarketingAdmin</permissionSets>
+    <permissionSets>force__GenieMarketingDataAwareSpecialist</permissionSets>
+    <permissionSets>force__GenieMarketingManager</permissionSets>
+    <permissionSets>force__GenieMarketingSpecialist</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>

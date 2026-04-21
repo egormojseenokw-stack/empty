@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>TempTest__TestObject_RecordType</fullName>
-    <active>true</active>
-    <label>TestObject RecordType</label>
-</RecordType>

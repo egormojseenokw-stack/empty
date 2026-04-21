@@ -137,5 +137,5 @@
         <searchResultsAdditionalFields>ActiveToDate</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>SalesAmount</searchResultsAdditionalFields>
     </searchLayouts>
-    <sharingModel>ReadWrite</sharingModel>
+    <sharingModel>Private</sharingModel>
 </CustomObject>

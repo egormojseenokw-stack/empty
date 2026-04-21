@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <help><!-- If the deployment is associated with a pipeline, emails will not be sent. --></help>
-    <label><!-- Ignore Pipelines --></label>
-    <name>Flosum__Ignore_Pipelines__c</name>
-</CustomFieldTranslation>

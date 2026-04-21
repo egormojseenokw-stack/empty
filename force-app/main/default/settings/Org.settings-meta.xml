@@ -2,5 +2,5 @@
 <OrgSettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <enableMakeDeploymentsMandatory>true</enableMakeDeploymentsMandatory>
     <enableManageSelfServiceUsers>false</enableManageSelfServiceUsers>
-    <enableRADeploymentAttributeOnly>true</enableRADeploymentAttributeOnly>
+    <enableRADeploymentAttributeOnly>false</enableRADeploymentAttributeOnly>
 </OrgSettings>

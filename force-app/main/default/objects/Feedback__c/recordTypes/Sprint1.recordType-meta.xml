@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Sprint1</fullName>
+    <active>true</active>
+    <description>Sprint1 record type for Feedback__c</description>
+    <label>Sprint1</label>
+</RecordType>

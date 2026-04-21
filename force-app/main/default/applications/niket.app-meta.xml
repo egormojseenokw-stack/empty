@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logo>X20251203_121037</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
+    <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
+    <label>niket</label>
+    <navType>Console</navType>
+    <tabs>test__c</tabs>
+    <tabs>standard-ActiveScratchOrg</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>nike_UtilityBar</utilityBar>
+    <workspaceConfig>
+        <mappings>
+            <tab>standard-ActiveScratchOrg</tab>
+        </mappings>
+        <mappings>
+            <tab>test__c</tab>
+        </mappings>
+    </workspaceConfig>
+</CustomApplication>

@@ -8,6 +8,6 @@
     <enableInsightsInTimeline>true</enableInsightsInTimeline>
     <enableInsightsInTimelineEacStd>false</enableInsightsInTimelineEacStd>
     <provisionProductivityFeatures>false</provisionProductivityFeatures>
-    <relationshipGraphPref>false</relationshipGraphPref>
-    <syncInternalEvents>false</syncInternalEvents>
+    <s2XSvcAccEmail>false</s2XSvcAccEmail>
+    <syncInternalEvents>true</syncInternalEvents>
 </EACSettings>
