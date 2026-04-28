@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Phase4</fullName>
+    <active>true</active>
+    <description>Phase4 record type for Decision__c</description>
+    <label>Phase4</label>
+</RecordType>

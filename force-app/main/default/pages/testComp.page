@@ -1,0 +1,49 @@
+<apex:page sidebar="false" showHeader="false">
+    <style>
+        .console-component {
+            padding: 20px;
+            font-family: Arial, sans-serif;
+        }
+        .header {
+            background: #0070d2;
+            color: white;
+            padding: 15px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+        }
+        .content {
+            background: #f3f3f3;
+            padding: 15px;
+            border-radius: 4px;
+        }
+        .info-box {
+            background: white;
+            border: 1px solid #d8d8d8;
+            padding: 10px;
+            margin-top: 10px;
+            border-radius: 4px;
+        }
+    </style>
+    
+    <div class="console-component">
+        <div class="header">
+            <h2>Test Console Component</h2>
+        </div>
+        
+        <div class="content">
+            <p><strong>Это тестовый консольный компонент</strong></p>
+            <div class="info-box">
+                <p>Текущее время: <span id="currentTime"></span></p>
+                <p>Компонент успешно загружен!</p>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        function updateTime() {
+            document.getElementById('currentTime').innerText = new Date().toLocaleTimeString();
+        }
+        updateTime();
+        setInterval(updateTime, 1000);
+    </script>
+</apex:page>
