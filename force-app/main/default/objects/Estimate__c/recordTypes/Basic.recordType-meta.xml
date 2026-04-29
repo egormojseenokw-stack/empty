@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Basic</fullName>
+    <active>true</active>
+    <description>Basic record type for Estimate__c</description>
+    <label>Basic</label>
+</RecordType>

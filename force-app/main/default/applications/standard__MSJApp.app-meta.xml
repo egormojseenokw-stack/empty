@@ -10,8 +10,13 @@
     <tabs>standard-JourneyHome</tabs>
     <tabs>standard-SalesforceJourney</tabs>
     <tabs>standard-JourneyMap</tabs>
+    <tabs>test__c</tabs>
+    <tabs>customObj__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
+        <mappings>
+            <tab>customObj__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-JourneyHome</tab>
         </mappings>
@@ -20,6 +25,9 @@
         </mappings>
         <mappings>
             <tab>standard-SalesforceJourney</tab>
+        </mappings>
+        <mappings>
+            <tab>test__c</tab>
         </mappings>
     </workspaceConfig>
 </CustomApplication>

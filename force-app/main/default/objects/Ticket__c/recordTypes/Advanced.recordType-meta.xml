@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Advanced</fullName>
+    <active>true</active>
+    <description>Advanced record type for Ticket__c</description>
+    <label>Advanced</label>
+</RecordType>

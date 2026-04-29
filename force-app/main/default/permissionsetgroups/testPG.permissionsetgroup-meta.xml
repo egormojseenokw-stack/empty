@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSetGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>testPG</label>
+    <mutingPermissionSets>testPG_Muted</mutingPermissionSets>
+    <permissionSets>force__CRMUserPsl</permissionSets>
+    <permissionSets>force__CommerceAdmin</permissionSets>
+    <permissionSets>force__CommerceSession</permissionSets>
+    <status>Updated</status>
+</PermissionSetGroup>

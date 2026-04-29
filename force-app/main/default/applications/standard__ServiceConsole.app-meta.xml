@@ -181,7 +181,12 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
+    <tabs>test__c</tabs>
+    <tabs>customObj__c</tabs>
     <workspaceConfig>
+        <mappings>
+            <tab>customObj__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>
@@ -199,6 +204,9 @@
         <mappings>
             <fieldName>AccountId</fieldName>
             <tab>standard-Opportunity</tab>
+        </mappings>
+        <mappings>
+            <tab>test__c</tab>
         </mappings>
     </workspaceConfig>
 </CustomApplication>

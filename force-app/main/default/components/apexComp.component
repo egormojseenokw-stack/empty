@@ -1,0 +1,8 @@
+<apex:component >
+    <apex:attribute name="textValue" type="String" description="Text to display"/>
+    <apex:attribute name="textColor" type="String" description="Color of text"/>
+    
+    <div style="color: {!textColor};">
+        {!textValue}
+    </div>
+</apex:component>

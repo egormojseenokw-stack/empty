@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Escalated</fullName>
+    <active>true</active>
+    <description>Escalated record type for Change__c</description>
+    <label>Escalated</label>
+</RecordType>

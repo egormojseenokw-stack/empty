@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Category</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Categories</value>
+    </caseValues>
+    <recordTypes>
+        <description><!-- Active record type for Category__c --></description>
+        <label><!-- Active --></label>
+        <name>Active</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Advanced record type for Category__c --></description>
+        <label><!-- Advanced --></label>
+        <name>Advanced</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Alpha record type for Category__c --></description>
+        <label><!-- Alpha --></label>
+        <name>Alpha</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Annual record type for Category__c --></description>
+        <label><!-- Annual --></label>
+        <name>Annual</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Approved record type for Category__c --></description>
+        <label><!-- Approved --></label>
+        <name>Approved</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Archived record type for Category__c --></description>
+        <label><!-- Archived --></label>
+        <name>Archived</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Automated record type for Category__c --></description>
+        <label><!-- Automated --></label>
+        <name>Automated</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Basic record type for Category__c --></description>
+        <label><!-- Basic --></label>
+        <name>Basic</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Beta record type for Category__c --></description>
+        <label><!-- Beta --></label>
+        <name>Beta</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Blocker record type for Category__c --></description>
+        <label><!-- Blocker --></label>
+        <name>Blocker</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Cancelled record type for Category__c --></description>
+        <label><!-- Cancelled --></label>
+        <name>Cancelled</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Closed record type for Category__c --></description>
+        <label><!-- Closed --></label>
+        <name>Closed</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Corporate record type for Category__c --></description>
+        <label><!-- Corporate --></label>
+        <name>Corporate</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Critical record type for Category__c --></description>
+        <label><!-- Critical --></label>
+        <name>Critical</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Customer record type for Category__c --></description>
+        <label><!-- Customer --></label>
+        <name>Customer</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Delta record type for Category__c --></description>
+        <label><!-- Delta --></label>
+        <name>Delta</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Development record type for Category__c --></description>
+        <label><!-- Development --></label>
+        <name>Development</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Draft record type for Category__c --></description>
+        <label><!-- Draft --></label>
+        <name>Draft</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Enterprise record type for Category__c --></description>
+        <label><!-- Enterprise --></label>
+        <name>Enterprise</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Epsilon record type for Category__c --></description>
+        <label><!-- Epsilon --></label>
+        <name>Epsilon</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Escalated record type for Category__c --></description>
+        <label><!-- Escalated --></label>
+        <name>Escalated</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Eta record type for Category__c --></description>
+        <label><!-- Eta --></label>
+        <name>Eta</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- External record type for Category__c --></description>
+        <label><!-- External --></label>
+        <name>External</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Federal record type for Category__c --></description>
+        <label><!-- Federal --></label>
+        <name>Federal</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Gamma record type for Category__c --></description>
+        <label><!-- Gamma --></label>
+        <name>Gamma</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Global record type for Category__c --></description>
+        <label><!-- Global --></label>
+        <name>Global</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- GoldTier record type for Category__c --></description>
+        <label><!-- GoldTier --></label>
+        <name>GoldTier</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- High record type for Category__c --></description>
+        <label><!-- High --></label>
+        <name>High</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Hybrid record type for Category__c --></description>
+        <label><!-- Hybrid --></label>
+        <name>Hybrid</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- InReview record type for Category__c --></description>
+        <label><!-- InReview --></label>
+        <name>InReview</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Inactive record type for Category__c --></description>
+        <label><!-- Inactive --></label>
+        <name>Inactive</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Inbound record type for Category__c --></description>
+        <label><!-- Inbound --></label>
+        <name>Inbound</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Internal record type for Category__c --></description>
+        <label><!-- Internal --></label>
+        <name>Internal</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Legacy record type for Category__c --></description>
+        <label><!-- Legacy --></label>
+        <name>Legacy</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Lite record type for Category__c --></description>
+        <label><!-- Lite --></label>
+        <name>Lite</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Local record type for Category__c --></description>
+        <label><!-- Local --></label>
+        <name>Local</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Low record type for Category__c --></description>
+        <label><!-- Low --></label>
+        <name>Low</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Manual record type for Category__c --></description>
+        <label><!-- Manual --></label>
+        <name>Manual</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Medium record type for Category__c --></description>
+        <label><!-- Medium --></label>
+        <name>Medium</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Minimal record type for Category__c --></description>
+        <label><!-- Minimal --></label>
+        <name>Minimal</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Monthly record type for Category__c --></description>
+        <label><!-- Monthly --></label>
+        <name>Monthly</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- New record type for Category__c --></description>
+        <label><!-- New --></label>
+        <name>New</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- OnHold record type for Category__c --></description>
+        <label><!-- OnHold --></label>
+        <name>OnHold</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Onsite record type for Category__c --></description>
+        <label><!-- Onsite --></label>
+        <name>Onsite</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Open record type for Category__c --></description>
+        <label><!-- Open --></label>
+        <name>Open</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Outbound record type for Category__c --></description>
+        <label><!-- Outbound --></label>
+        <name>Outbound</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Partner record type for Category__c --></description>
+        <label><!-- Partner --></label>
+        <name>Partner</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Pending record type for Category__c --></description>
+        <label><!-- Pending --></label>
+        <name>Pending</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Personal record type for Category__c --></description>
+        <label><!-- Personal --></label>
+        <name>Personal</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Phase1 record type for Category__c --></description>
+        <label><!-- Phase1 --></label>
+        <name>Phase1</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Phase2 record type for Category__c --></description>
+        <label><!-- Phase2 --></label>
+        <name>Phase2</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Phase3 record type for Category__c --></description>
+        <label><!-- Phase3 --></label>
+        <name>Phase3</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Phase4 record type for Category__c --></description>
+        <label><!-- Phase4 --></label>
+        <name>Phase4</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Phase5 record type for Category__c --></description>
+        <label><!-- Phase5 --></label>
+        <name>Phase5</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Phase6 record type for Category__c --></description>
+        <label><!-- Phase6 --></label>
+        <name>Phase6</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Phase7 record type for Category__c --></description>
+        <label><!-- Phase7 --></label>
+        <name>Phase7</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Pilot record type for Category__c --></description>
+        <label><!-- Pilot --></label>
+        <name>Pilot</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Premium record type for Category__c --></description>
+        <label><!-- Premium --></label>
+        <name>Premium</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Pro record type for Category__c --></description>
+        <label><!-- Pro --></label>
+        <name>Pro</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Production record type for Category__c --></description>
+        <label><!-- Production --></label>
+        <name>Production</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Published record type for Category__c --></description>
+        <label><!-- Published --></label>
+        <name>Published</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Quarterly record type for Category__c --></description>
+        <label><!-- Quarterly --></label>
+        <name>Quarterly</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Regional record type for Category__c --></description>
+        <label><!-- Regional --></label>
+        <name>Regional</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Regular record type for Category__c --></description>
+        <label><!-- Regular --></label>
+        <name>Regular</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Rejected record type for Category__c --></description>
+        <label><!-- Rejected --></label>
+        <name>Rejected</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Remote record type for Category__c --></description>
+        <label><!-- Remote --></label>
+        <name>Remote</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Research record type for Category__c --></description>
+        <label><!-- Research --></label>
+        <name>Research</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Resolved record type for Category__c --></description>
+        <label><!-- Resolved --></label>
+        <name>Resolved</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Rnd record type for Category__c --></description>
+        <label><!-- Rnd --></label>
+        <name>Rnd</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Signed record type for Category__c --></description>
+        <label><!-- Signed --></label>
+        <name>Signed</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- SilverTier record type for Category__c --></description>
+        <label><!-- SilverTier --></label>
+        <name>SilverTier</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Sprint1 record type for Category__c --></description>
+        <label><!-- Sprint1 --></label>
+        <name>Sprint1</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Sprint2 record type for Category__c --></description>
+        <label><!-- Sprint2 --></label>
+        <name>Sprint2</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Sprint3 record type for Category__c --></description>
+        <label><!-- Sprint3 --></label>
+        <name>Sprint3</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Staging record type for Category__c --></description>
+        <label><!-- Staging --></label>
+        <name>Staging</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Standard record type for Category__c --></description>
+        <label><!-- Standard --></label>
+        <name>Standard</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Tested record type for Category__c --></description>
+        <label><!-- Tested --></label>
+        <name>Tested</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Theta record type for Category__c --></description>
+        <label><!-- Theta --></label>
+        <name>Theta</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Tier1 record type for Category__c --></description>
+        <label><!-- Tier1 --></label>
+        <name>Tier1</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Tier2 record type for Category__c --></description>
+        <label><!-- Tier2 --></label>
+        <name>Tier2</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Tier3 record type for Category__c --></description>
+        <label><!-- Tier3 --></label>
+        <name>Tier3</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Tier4 record type for Category__c --></description>
+        <label><!-- Tier4 --></label>
+        <name>Tier4</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Tier5 record type for Category__c --></description>
+        <label><!-- Tier5 --></label>
+        <name>Tier5</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Trial record type for Category__c --></description>
+        <label><!-- Trial --></label>
+        <name>Trial</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- TypeA record type for Category__c --></description>
+        <label><!-- TypeA --></label>
+        <name>TypeA</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- TypeB record type for Category__c --></description>
+        <label><!-- TypeB --></label>
+        <name>TypeB</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- TypeC record type for Category__c --></description>
+        <label><!-- TypeC --></label>
+        <name>TypeC</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- TypeD record type for Category__c --></description>
+        <label><!-- TypeD --></label>
+        <name>TypeD</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- TypeE record type for Category__c --></description>
+        <label><!-- TypeE --></label>
+        <name>TypeE</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- TypeF record type for Category__c --></description>
+        <label><!-- TypeF --></label>
+        <name>TypeF</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- TypeG record type for Category__c --></description>
+        <label><!-- TypeG --></label>
+        <name>TypeG</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- TypeH record type for Category__c --></description>
+        <label><!-- TypeH --></label>
+        <name>TypeH</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- VIP record type for Category__c --></description>
+        <label><!-- VIP --></label>
+        <name>VIP</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Verified record type for Category__c --></description>
+        <label><!-- Verified --></label>
+        <name>Verified</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Version1 record type for Category__c --></description>
+        <label><!-- Version1 --></label>
+        <name>Version1</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Version2 record type for Category__c --></description>
+        <label><!-- Version2 --></label>
+        <name>Version2</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Version3 record type for Category__c --></description>
+        <label><!-- Version3 --></label>
+        <name>Version3</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Weekly record type for Category__c --></description>
+        <label><!-- Weekly --></label>
+        <name>Weekly</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Zero record type for Category__c --></description>
+        <label><!-- Zero --></label>
+        <name>Zero</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Zeta record type for Category__c --></description>
+        <label><!-- Zeta --></label>
+        <name>Zeta</name>
+    </recordTypes>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Name is required and cannot be blank. --></errorMessage>
+        <name>Name_Required</name>
+    </validationRules>
+</CustomObjectTranslation>

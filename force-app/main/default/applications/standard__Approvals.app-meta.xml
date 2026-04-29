@@ -8,10 +8,18 @@
     <label>Approvals</label>
     <navType>Console</navType>
     <tabs>standard-ApprovalsHome</tabs>
+    <tabs>test__c</tabs>
+    <tabs>customObj__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
         <mappings>
+            <tab>customObj__c</tab>
+        </mappings>
+        <mappings>
             <tab>standard-ApprovalsHome</tab>
+        </mappings>
+        <mappings>
+            <tab>test__c</tab>
         </mappings>
     </workspaceConfig>
 </CustomApplication>
